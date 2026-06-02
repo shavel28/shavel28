@@ -6,7 +6,7 @@
 
 ### Informatics Engineering Student
 
-UI/UX Design • Machine Learning • Web Development • IoT
+**UI/UX Design • Data Science • Machine Learning • AI Engineering • Web Development • IoT**
 
 <p>
 <a href="https://www.linkedin.com/in/shava-selvia-r-s-05493725b">
@@ -24,14 +24,18 @@ UI/UX Design • Machine Learning • Web Development • IoT
 
 ## 🌷 About Me
 
-I am an Informatics Engineering student with interests in:
+I am an Informatics Engineering student with a strong interest in technology, data, and digital product development.
 
-- 🎨 UI/UX Design
-- 🤖 Machine Learning
-- 🌐 Web Development
-- 📡 Internet of Things (IoT)
+My areas of interest include:
 
-I enjoy learning new technologies, solving problems, and building digital products that create meaningful user experiences.
+* 🎨 UI/UX Design
+* 📊 Data Science
+* 🤖 Machine Learning
+* 🧠 AI Engineering
+* 🌐 Web Development
+* 📡 Internet of Things (IoT)
+
+I enjoy exploring new technologies, solving real-world problems through data-driven approaches, and building impactful digital solutions that provide meaningful user experiences.
 
 ---
 
@@ -47,11 +51,13 @@ I enjoy learning new technologies, solving problems, and building digital produc
 
 ## 🌱 Currently Learning
 
-- Machine Learning & Data Science
-- UI/UX Design Process
-- Laravel Development
-- Flutter Development
-- ESP32 & IoT
+* Machine Learning & Data Science
+* AI Engineering Fundamentals
+* MLOps & Model Deployment
+* UI/UX Design Process
+* Laravel Development
+* Flutter Development
+* ESP32 & IoT
 
 ---
 
@@ -77,6 +83,10 @@ I enjoy learning new technologies, solving problems, and building digital produc
 
 <div align="center">
 
-✨ Learning, Designing, and Building One Step at a Time ✨
+### ✨ Favorite Quote
+
+*"Learning, Designing, and Building One Step at a Time."*
+
+⭐ If you find my repositories useful, feel free to leave a star and follow my journey.
 
 </div>
