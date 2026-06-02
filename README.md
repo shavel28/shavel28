@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0dHFwa2FldnZkc2E2cTF3YmtjNzJucWxmaDRzeTQybWc5MHB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" height="150"/>
 
-# 🌸 Shava Selvia Ramadhani Subekti
+# 🌸 Hi, I'm Shava Selvia Ramadhani Subekti
 
 ### Informatics Engineering Student
 
