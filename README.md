@@ -1,65 +1,82 @@
 <div align="center">
-  <img height="120" src="https://giphy.com"/>
-</div>
 
-<h2 align="center">🌸 Hi, I'm Shava Selvia 🌸</h2>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0dHFwa2FldnZkc2E2cTF3YmtjNzJucWxmaDRzeTQybWc5MHB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" height="150"/>
 
-<p align="center">
-Informatics Engineering Student <br>
-UI/UX Design • Machine Learning • Flutter Development
-</p>
+# 🌸 Shava Selvia Ramadhani Subekti
 
-<br>
+### Informatics Engineering Student
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+UI/UX Design • Machine Learning • Web Development • IoT
 
-<div align="center">
-  <!-- Baris Pertama: Languages -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <br>
-  <!-- Baris Kedua: Frameworks & Tools -->
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</div>
-
-<br>
-
-<p align="center">
-🌷 Learning Python & Machine Learning <br>
-🌷 Building Mobile & Web Applications <br>
-🌷 Passionate about UI/UX Design <br>
-☕ Fueled by coffee & creativity
-</p>
-
-<br>
-
-<h3 align="center">🌼 Connect With Me 🌼</h3>
-
-<div align="center">
-
-<a href="https://github.com">
-  <img src="https://shields.io"/>
+<p>
+<a href="https://www.linkedin.com/in/shava-selvia-r-s-05493725b">
+<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-  <img src="https://shields.io"/>
+<a href="https://github.com/shavel28">
+<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=flat-square&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
-<br>
+---
+
+## 🌷 About Me
+
+I am an Informatics Engineering student with interests in:
+
+- 🎨 UI/UX Design
+- 🤖 Machine Learning
+- 🌐 Web Development
+- 📡 Internet of Things (IoT)
+
+I enjoy learning new technologies, solving problems, and building digital products that create meaningful user experiences.
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
-✨ Learning, designing, and building one project at a time ✨
+<img src="https://skillicons.dev/icons?i=python,java,dart,php,laravel,mysql,html,css,js,flutter,figma,git,github,vscode&perline=7" />
 
-⭐ If you find my repositories useful, feel free to leave a star!
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning & Data Science
+- UI/UX Design Process
+- Laravel Development
+- Flutter Development
+- ESP32 & IoT
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shavel28&bg_color=ffffff&color=f8a1c4&line=f8a1c4&point=f8a1c4&hide_border=true"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shavel28&label=Profile%20Views&color=ffb6c1&style=flat"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Learning, Designing, and Building One Step at a Time ✨
 
 </div>
