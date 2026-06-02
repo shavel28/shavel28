@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0dHFwa2FldnZkc2E2cTF3YmtjNzJucWxmaDRzeTQybWc5MHB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif"/>
+  <img height="120" src="https://giphy.com"/>
 </div>
 
 <h2 align="center">🌸 Hi, I'm Shava Selvia 🌸</h2>
@@ -14,14 +14,14 @@ UI/UX Design • Machine Learning • Flutter Development
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-  <!-- Baris Pertama: Bahasa Pemrograman -->
+  <!-- Baris Pertama: Languages -->
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
-  <br><br>
-  <!-- Baris Kedua: Framework & Tools -->
+  <br>
+  <!-- Baris Kedua: Frameworks & Tools -->
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
   <img src="https://shields.io"/>
@@ -44,11 +44,11 @@ UI/UX Design • Machine Learning • Flutter Development
 
 <div align="center">
 
-<a href="https://github.com/shavel28">
+<a href="https://github.com">
   <img src="https://shields.io"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shava-selvia-r-s-05493725b">
+<a href="https://linkedin.com">
   <img src="https://shields.io"/>
 </a>
 
